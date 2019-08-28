@@ -24,6 +24,7 @@ The intention is to be something ready to add Sass support to a web project, eit
 # npm install
 ``` 
 * Command above will install necessary packages, allowing to use `grunt`task runner to transform Sass files into CSS.
+* Remember to edit `package.json` and fill with correct project instructions, like project name, description and version.
 
 ## Compiling Sass to CSS
 
